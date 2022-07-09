@@ -1,0 +1,23 @@
+{
+    "name": "Learn Lit",
+    "short_name": "Learn Lit",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-d9tRLKEVNVM/YTPlOrfCTkI/AAAAAAAAAG4/87h_1_Hu0SYNIKEEsN8rgRyaBEBGUjYnQCNcBGAsYHQ/s192/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm9MDLbNCV0LgP8f9tf0tpXCrNtJxsXSwJjCcJn7TbCDzPRpXoblbsJE_XSir9WFDAfTrBIwLyF0bjjRcmMf_qJl-BnoJ-J0WjTwcB05c7UXqbyR2z582O91NQzFH_KVjFL7q462AuQrvBBPYG1DkB5QJlkAva8NMRJk0kkunuvBrXVSHcAgRWiDHu/s512/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#fb2424",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.learnlit.in/"
+}
